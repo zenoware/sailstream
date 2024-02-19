@@ -28,6 +28,10 @@ Take care of possible port collisions yourself.
 
     cp .env.example .env
 
+### Install composer dependencies
+
+    composer install
+
 ### Run
 
     ./vendor/bin/sail up
