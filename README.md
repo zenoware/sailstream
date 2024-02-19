@@ -30,7 +30,6 @@ Take care of possible port collisions yourself.
 
 ### Run
 
-    cd sailstream
     ./vendor/bin/sail up
 
 ### Migrate
