@@ -42,6 +42,17 @@ Take care of possible port collisions yourself.
     ./vendor/bin/sail npm install
     ./vendor/bin/sail npm run dev
 
+### Symlink storage
+
+    ./vendor/bin/sail artisan storage:link
+
 ### (Optional) SSH into the app container
 
     ./vendor/bin/sail shell
+
+## Quick links
+
+- [Laravel](http://localhost)
+- [PHPMyAdmin](http://localhost:8080)
+- [Minio](http://localhost:9000) (don't forget to add a `local` bucket with R/W permissions)
+- [Mailpit](http://localhost:1025)
