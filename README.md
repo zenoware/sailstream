@@ -56,6 +56,7 @@ Take care of possible port collisions yourself.
 ## Quick links
 
 - [Laravel](http://localhost)
+- [Telescope](http://localhost/telescope)
 - [PHPMyAdmin](http://localhost:8080)
 - [Minio](http://localhost:9000) (don't forget to add a `local` bucket with R/W permissions)
 - [Mailpit](http://localhost:1025)
