@@ -24,6 +24,10 @@ Take care of possible port collisions yourself.
 
     git clone git@github.com:Zenoware/sailstream.git
 
+or
+
+    composer create-project zenoware/sailstream --prefer-dist
+
 ### Set environment variables
 
     cp .env.example .env
