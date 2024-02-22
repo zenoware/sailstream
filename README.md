@@ -22,7 +22,9 @@ Take care of possible port collisions yourself.
 
 ### Clone
 
-    git clone git@github.com:Zenoware/sailstream.git
+    composer global require zenoware/sailstream-installer
+
+    sailstream new
 
 or
 
